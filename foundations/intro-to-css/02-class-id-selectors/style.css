@@ -1,0 +1,21 @@
+/*  **All odd numbered elements**: a light red/pink background, and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback */
+
+p {
+    background-color:rgb(213, 92, 224);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+.second {
+    color: rgb(74, 168, 223);
+    font-size: 36px;
+}
+
+.third { 
+    font-size: 24px;
+}
+
+.fourth {
+    background-color: rgb(85, 170, 85);
+    font-size: 24px;
+    font-weight: bold;
+}
