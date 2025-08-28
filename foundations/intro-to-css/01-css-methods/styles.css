@@ -1,0 +1,23 @@
+div {
+    background-color: red;
+    color: white;
+    font-size: 32;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* this is a CSS comment */
+/*  `p`: a green background, white text, and a font size of 18px */
+
+p {
+    background-color: green;
+    color: white;
+    font-size: 18;
+}
+
+/* `button`: an orange background and a font size of 18px */
+
+button {
+    background-color: orange;
+    font-size: 18;
+}
